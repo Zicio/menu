@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ewv1flj2d0omjuwd?svg=true)](https://ci.appveyor.com/project/Zicio/menu)
+
 [Ссылка на GP](https://zicio.github.io/menu/)
 
 [Ссылка на задание](https://github.com/Zicio/ra16-homeworks/tree/master/router/menu)
